@@ -29,7 +29,7 @@ Want to discuss any of my projects, or something else? Send me a direct message 
 
   <p>
     <kbd>
-      <a href="https://stackoverflow.com/users/1019753/diode"><img src="https://stackoverflow.com/users/flair/8676214.png" width="208" height="58" alt="profile for Abdulla at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulla at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+      <a href="https://stackoverflow.com/users/8676214"><img src="https://stackoverflow.com/users/flair/8676214.png" width="208" height="58" alt="profile for Abdulla at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulla at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
     </kbd>
   </p>
   
