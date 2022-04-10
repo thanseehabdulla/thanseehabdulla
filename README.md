@@ -19,3 +19,20 @@ Want to discuss any of my projects, or something else? Send me a direct message 
 - 🔭 I’m currently working on React.js django stack to build drag and drop pages
 - 🌱 I’m currently learning ... Object Oriented Python and cloud native development
 
+<div align="center">
+
+  ### Fullstack Developer
+
+  <p>
+    <sup>💪</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Typescript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Svelte&nbsp;&nbsp;&nbsp;<sup>💪</sup>React&nbsp;&nbsp;&nbsp;<sup>💪</sup>Vue&nbsp;&nbsp;&nbsp;<sup>💪</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>💪</sup>WebGL&nbsp;&nbsp;&nbsp;<sup>💪</sup>ThreeJS
+  </p>
+
+  <p>
+    <kbd>
+      <a href="https://stackoverflow.com/users/1019753/diode"><img src="https://stackoverflow.com/users/flair/8676214.png" width="208" height="58" alt="profile for Abdulla at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulla at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+    </kbd>
+  </p>
+  
+  <p>🔗 <a href="http://meabdullathanseeh.web.app">Portfolio</a></p></p>
+
+</div>
