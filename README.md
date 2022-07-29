@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-My name is Abdulla, I live in Kerala, Kasaragod India and I work as a Software Engineer at ccs technologies pvt ltd where we're building digital solution products for out clients.
+My name is Abdulla, I live in Kerala, Kasaragod India and I work as a Staff Software Engineer at IBM Labs where we're building digital solution products for out clients.
 
 I’m a member of the Technology team where I primarily contribute as part of the Cloud Native Group. I also work on a number of other freelance projects, mostly in the JavaScript and TypeScript ecosystems.
 
