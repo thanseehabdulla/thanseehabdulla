@@ -24,7 +24,7 @@ Want to discuss any of my projects, or something else? Send me a direct message 
   ### Fullstack Developer
 
   <p>
-    <sup>💪</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Typescript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Angular&nbsp;&nbsp;&nbsp;<sup>💪</sup>React&nbsp;&nbsp;&nbsp;<sup>💪</sup>Vue&nbsp;&nbsp;&nbsp;<sup>💪</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>💪</sup>Object Oriented Programming&nbsp;&nbsp;&nbsp;<sup>💪</sup>Data Structure
+    <sup>💪</sup>Data and AI <sup>💪</sup>Hadoop Stack<sup> <sup>💪</sup>Data Lakes <sup>💪</sup>Data warehouses <sup>💪</sup>Data Visualization💪</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Typescript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Angular&nbsp;&nbsp;&nbsp;<sup>💪</sup>React&nbsp;&nbsp;&nbsp;<sup>💪</sup>Vue&nbsp;&nbsp;&nbsp;<sup>💪</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>💪</sup>Object Oriented Programming&nbsp;&nbsp;&nbsp;<sup>💪</sup>Data Structure
   </p>
 
   <p>
