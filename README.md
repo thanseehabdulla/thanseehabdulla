@@ -3,7 +3,7 @@
 ## About Me
 My name is Abdulla, I live in Kerala, Kasaragod India and I work as a Staff Software Engineer at IBM Labs where we're building digital solution products for out clients.
 
-I’m a member of the Technology team where I primarily contribute as part of the Cloud Native Group. I also work on a number of other freelance projects, mostly in the JavaScript and TypeScript ecosystems.
+I’m a member of the Technology team where I primarily contribute as part of the Data and AI Group. I also work on a number of other freelance projects, mostly in the JavaScript and TypeScript ecosystems.
 
 If you are interested in contacting me for any of support work I encourage you to contact via mail.
 
