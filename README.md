@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-My name is Abdulla, I live in Kerala, Kasaragod India and I work as a Staff Software Engineer at IBM Labs where we're building digital solution products for our clients.
+My name is Abdulla, I live in Kerala, Kasaragod India and I work as a Staff Software Engineer at IBM DATA and AI where we're building datalakehouse digital solution products for our clients.
 
 I’m a member of the Technology team where I primarily contribute as part of the Data and AI Group. I also work on a number of other freelance projects, mostly in the JavaScript and TypeScript ecosystems.
 
