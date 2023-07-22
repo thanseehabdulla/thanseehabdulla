@@ -14,7 +14,7 @@ Want to know what I'm working on this month? Take a look at my list of current p
 ## Get in Touch
 Want to discuss any of my projects, or something else? Send me a direct message at thanseehabdulla@gmail.com.
 
-- 🔭 I’m currently working on React.js, golang, hadoop stack, scala to build datalakes ecosystem
+- 🔭 I’m currently working on React.js, golang, hadoop stack, scala, java, script, k8s to build datalakes ecosystem
 - 🌱 I’m currently learning ... GRAND STACK, DATA and AI
 
 <div align="center">
