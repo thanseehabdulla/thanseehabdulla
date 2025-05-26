@@ -12,8 +12,6 @@ If you are interested in contacting me for any of support I encourage you to con
 
 <div align="center">
 
-  ### Fullstack Developer
-
   <p>
     <sup>💪</sup>Data and AI <sup>💪</sup>Hadoop Stack <sup>💪</sup>Data Lakes <sup>💪</sup>Data warehouses <sup>💪</sup>Data Visualization <sup> 💪</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Typescript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Angular&nbsp;&nbsp;&nbsp;<sup>💪</sup>React&nbsp;&nbsp;&nbsp;<sup>💪</sup>Vue&nbsp;&nbsp;&nbsp;<sup>💪</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>💪</sup>Object Oriented Programming&nbsp;&nbsp;&nbsp;<sup>💪</sup>Data Structure
   </p>
